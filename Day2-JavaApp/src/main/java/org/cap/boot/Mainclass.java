@@ -8,6 +8,10 @@ public class Mainclass {
 	
 	System.out.println("Newline");
 	
+	System.out.println("Line no 3");
+	
+	System.out.println("Line no 4");
+	
 	System.out.println("Newline 5");
 	
 	System.out.println("Newline 6");
