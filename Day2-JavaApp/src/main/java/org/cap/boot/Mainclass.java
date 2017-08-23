@@ -7,6 +7,12 @@ public class Mainclass {
 	System.out.println("Github Start");
 	
 	System.out.println("Newline");
+	
+	System.out.println("Newline 5");
+	
+	System.out.println("Newline 6");
+	
+	
 	}
 	
 
